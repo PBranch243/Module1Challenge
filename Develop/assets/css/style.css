@@ -75,6 +75,8 @@ p {
     margin-left: 20px;
 }
 
+/* consolidated some css classes for content which I have left in comments at bottom */
+
 .content section {
     margin-bottom: 20px;
     padding: 50px;
@@ -104,6 +106,37 @@ p {
     background-color: #2589bd;
 }
 
+/* consolidated css classes for benefits which I have left in comments at bottom */
+
+.benefits section{
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefits img{
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefits h3{
+    margin-bottom: 10px;
+    text-align: center;  
+}
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
+
+
+/*
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -151,6 +184,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+*/
+
 /*
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -206,13 +241,3 @@ p {
     font-size: 36px;
 }
 */
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-}
